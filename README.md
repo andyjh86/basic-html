@@ -1,13 +1,19 @@
 This is a basic HTML boilerplate.
 
-I use the mozilla reccomended strucutre 
+I use the mozilla reccomended structure 
 
-[website]
+<h1>website</h1>
+
 index
-  >images
-  >scripts
-  >styles
-    reset.css
-    style.css
+  -images
+    hero.webp
+  -scripts
+    main.js
+  -styles
+     reset.css
+     style.css
+  
+   
+    
 
 
