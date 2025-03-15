@@ -9,9 +9,9 @@ index <br>
     hero.webp <br>
   -scripts <br>
     main.js <br>
-  -styles
-     reset.css
-     style.css
+  -styles <br>
+     reset.css <br>
+     style.css <br>
   
    
     
