@@ -1,17 +1,17 @@
-T0his is a basic HTML boilerplate.
+This is a basic HTML boilerplate.
 
-I use the mozilla reccomended structure 
+I use the Mozilla recommended structure 
 
 <h1>website</h1>
 
-<p>index  <br>
+index  <br>
    -images <br>
       hero.webp <br>
    -scripts <br>
       main.js <br>
    -styles <br>
       reset.css <br>
-      style.css <br> </p>
+      style.css <br>
   
    
     
