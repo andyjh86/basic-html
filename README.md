@@ -6,12 +6,12 @@ I use the mozilla reccomended structure
 
 <p>index  <br>
    -images <br>
-    hero.webp <br>
-  <p> -scripts </p> <br>
-   <p>  main.js </p> <br>
-  <p> -styles </p> <br>
-     <p> reset.css </p> <br>
-     <p> style.css </p> <br>
+      hero.webp <br>
+   -scripts <br>
+      main.js <br>
+   -styles <br>
+      reset.css <br>
+      style.css <br> </p>
   
    
     
