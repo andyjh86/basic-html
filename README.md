@@ -6,9 +6,9 @@ I use the mozilla reccomended structure
 
 index <br>
   -images <br>
-    hero.webp
-  -scripts
-    main.js
+    hero.webp <br>
+  -scripts <br>
+    main.js <br>
   -styles
      reset.css
      style.css
