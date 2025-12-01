@@ -1,6 +1,6 @@
-This is a basic HTML boilerplate.
+Basic HTML boilerplate.
 
-Using a content management system (CMS) would be much easier, but in the event I'm doing everything manually, I follow the style Mozilla recommends <br>
+It would be much easier to use a Content Management System (CMS), but for the purposes of learning Mozilla sugests the following structure<br>
 <br>
 <h1>website</h1>
 
